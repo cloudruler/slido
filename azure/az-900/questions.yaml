@@ -1,0 +1,16 @@
+- objective: Cloud concepts
+  questions:
+  - prompt: How can Azure lower capital expenditure (CapEx) costs?
+    answers:
+    - text: Azure allows you to pay annually to reduce overall costs that are associated with its platform-as-a-service (PaaS) offerings.
+    - text: Azure reduces the amount of maintenance that is associated with the configuration of firewalls, which reduces costs.
+    - text: Azure allows you to pay monthly based on usage rather than pay upfront for physical hardware
+      correct: true
+    - text: Azure allows you to reduce the level of IT staffing that is required to maintain on-premises applications and services.
+  - prompt: How can Azure lower capital expenditure (CapEx) costs?
+    answers:
+    - text: Azure allows you to pay annually to reduce overall costs that are associated with its platform-as-a-service (PaaS) offerings.
+    - text: Azure reduces the amount of maintenance that is associated with the configuration of firewalls, which reduces costs.
+    - text: Azure allows you to pay monthly based on usage rather than pay upfront for physical hardware
+      correct: true
+    - text: Azure allows you to reduce the level of IT staffing that is required to maintain on-premises applications and services.
